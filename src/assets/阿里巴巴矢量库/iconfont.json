@@ -1,0 +1,65 @@
+{
+  "id": "4504341",
+  "name": "人资",
+  "font_family": "element-icons",
+  "css_prefix_text": "el-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3061194",
+      "name": "工资记录",
+      "font_class": "gongzijilu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6216074",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7587933",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13571651",
+      "name": "员工展示2",
+      "font_class": "yuangongzhanshi",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "26182295",
+      "name": "考勤",
+      "font_class": "kaoqin",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "35700993",
+      "name": "审批2",
+      "font_class": "shenpi2",
+      "unicode": "eb7d",
+      "unicode_decimal": 60285
+    },
+    {
+      "icon_id": "6429428",
+      "name": "组织结构",
+      "font_class": "zuzhijiegou",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "15644402",
+      "name": "仪表盘",
+      "font_class": "yibiaopan",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "success": "请求成功111",
+  "code": 200,
+  "message": "请求成功",
+  "data": [
+    {
+      "path": "homepage",
+      "name": "首页",
+			"fals":false,
+			"iocn":"el-icon-gongzijilu"
+    },
+    {
+      "path": "architecture",
+      "name": "组织架构",
+			"fals":false,
+			"iocn":"el-icon-shezhi"
+    },
+		{
+      "path": "employee",
+      "name": "员工",
+			"fals":false,
+			"iocn":"el-icon-caidan"
+    },
+		{
+      "path": "Companysetup",
+      "name": "公司设置",
+			"fals":false,
+			"iocn":"el-icon-yuangongzhanshi"
+    },
+		{
+      "path": "Permissionsetting",
+      "name": "权限设置",
+			"fals":false,
+			"iocn":"el-icon-kaoqin"
+    },
+		{
+      "path": "Socialsecurity",
+      "name": "社保",
+			"fals":false,
+			"iocn":"el-icon-shenpi2"
+    },
+		{
+      "path": "clockingin",
+      "name": "考勤",
+			"fals":false,
+			"iocn":"el-icon-shenpi2"
+    },
+		{
+      "path": "wage",
+      "name": "工资",
+			"fals":false,
+			"iocn":"el-icon-zuzhijiegou"
+    },{
+      "path": "approval",
+      "name": "审批",
+			"fals":false,
+			"iocn":"el-icon-yibiaopan"
+    }
+  ]
+}
